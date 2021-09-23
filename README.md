@@ -1,27 +1,31 @@
-# Project 3 - *Name of App Here*
+# Twitter - Part I
 
-**Name of your app** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+App launching, logging in, staying logged in, and logging out.
+(Launch screen is there, but loads very fast)
+![TwitterPart1.1](https://media.giphy.com/media/KMf0P6C8JQ9iwMsj9x/giphy.gif?cid=790b7611de3021725017d99179d30ee4243da94993adab5b&rid=giphy.gif&ct=g)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Pull up to refresh and infinite scrolling.
+(It's a little choppy but smooths out)
+![TwitterPart1.2](https://media.giphy.com/media/oWhV2526S8uCPefssu/giphy.gif?cid=790b7611c9e7e4d8106adeca558f9d91d27dc3fa6c65089b&rid=giphy.gif&ct=g)
